@@ -3,7 +3,7 @@
 A stylish and responsive **Custom 404 Page** built with **HTML and CSS**.  
 It provides a friendly message and visual illustration when users land on a non-existent page.
 
-🌐 **Live Demo:** [View here](https://yoyoooz.github.io/News-homepage/)  
+🌐 **Live Demo:** [View here](https://yoyoooz.github.io/404-page/)  
 
 ---
 
